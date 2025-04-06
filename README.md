@@ -1,2 +1,2 @@
-# project-rishu
+project-rishu
 book store management
